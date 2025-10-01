@@ -76,7 +76,7 @@ Geopy and Folium (Mapping of data on Global Map)
 
 ## 🤝 Contribution
 
-Feel free to fork the repository, open issues, or suggest improvements. Contributions are welcome!
+Feel free to open issues, or suggest improvements. Contributions are welcome!
 
 ---
 
